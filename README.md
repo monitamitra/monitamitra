@@ -1,7 +1,7 @@
-### Hello there! My name is Monita Mitra. 👋
+## Hello there! My name is Monita Mitra. 👋
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitamitra)](https://github.com/monitamitra/github-readme-stats)
-
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript&perline=4)](https://skillicons.dev)
 <!--
 **monitamitra/monitamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
