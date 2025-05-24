@@ -1,7 +1,7 @@
 ## Hello there! My name is Monita Mitra. 👋
----
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript,sql)](https://skillicons.dev)
+---
 <!--
 **monitamitra/monitamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
