@@ -4,14 +4,16 @@
 ## 😇 About Me 
 I am a rising senior at the University of Texas at Austin majoring in Computer Science with a minor in Statistics & Data Sciences. Some of my hobbies include painting, binge-watching TV shows, trying new foods, and spending time at the beach. 🌊🔆 My most notable honors are completing the TIP102 course with CodePath and winning an award for best DEI hack at a university sponsored hackthon with my friends for our project UPSEED. 
 
-I’m open to exploring many areas of tech, but lately I’ve been especially drawn to the capabilities of working with Generative AI. My most favorite project Wealthy Waldo, a personal project where I combined LLMs, vector search, and financial logic to create an AI assistant that generates personalized investment portfolios, really sparked my excitement for the space and its potential to build helpful, intelligent tools. ❤️❤️
+I’m open to exploring many areas of tech, but lately I’ve been drawn to the capabilities of working with Generative AI. My favorite project Wealthy Waldo, a personal project where I combined LLMs, vector search, and financial logic to create an AI assistant that generates personalized investment portfolios, really sparked my excitement for the space and its potential to build helpful, intelligent tools. ❤️❤️
 
+---
 
 ## 📌 My Experience 
 + Incoming Software Engineering Intern @ Wells Fargo
 + Prev. Sophomore Discovery Inern @ Wells Fargo
 + Teaching Assistant for SDS 322E (Elements of Data Science)
 
+---
 
 ## 💻 Tech Stack 
 
@@ -27,7 +29,7 @@ I’m open to exploring many areas of tech, but lately I’ve been especially dr
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,github,figma" alt="Tools" />
 
----
+
 <!--
 **monitamitra/monitamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
