@@ -1,6 +1,8 @@
 ## Hello there! My name is Monita Mitra. 👋
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vercel,nodejs,html,css,tailwind,figma)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,vercel,nodejs,html,css,tailwind)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=postgres,sklearn,spring,flask,docker)](https://skillicons.dev)
+[![Etc](https://skillicons.dev/icons?i=vscode,eclipse,github,figma)](https://skillicons.dev)
 ---
 <!--
 **monitamitra/monitamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
