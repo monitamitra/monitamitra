@@ -5,17 +5,11 @@
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vercel,nodejs,html,css,tailwind,firebase" alt="Frontend Stack" />
 
-<br><br>
-
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=postgres,sklearn,spring,flask,docker" alt="Backend Stack" />
 
-<br><br>
-
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,c" alt="Languages" />
-
-<br><br>
 
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,github,figma" alt="Tools" />
