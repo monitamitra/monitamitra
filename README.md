@@ -1,10 +1,12 @@
 ## Hello there! My name is Monita Mitra. 👋
 ## Tech Stack
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,vercel,nodejs,html,css,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,vercel,nodejs,html,css,tailwind,firebase)](https://skillicons.dev)
 <br>
 [![Backend](https://skillicons.dev/icons?i=postgres,sklearn,spring,flask,docker)](https://skillicons.dev)
 <br>
-[![Etc](https://skillicons.dev/icons?i=vscode,eclipse,github,figma)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c)](https://skillicons.dev)
+<br>
+[![Etc](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,github,figma)](https://skillicons.dev)
 ---
 <!--
 **monitamitra/monitamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
