@@ -1,7 +1,9 @@
 ## Hello there! My name is Monita Mitra. 👋
 ## Tech Stack
 [![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,vercel,nodejs,html,css,tailwind)](https://skillicons.dev)
+<br>
 [![Backend](https://skillicons.dev/icons?i=postgres,sklearn,spring,flask,docker)](https://skillicons.dev)
+<br>
 [![Etc](https://skillicons.dev/icons?i=vscode,eclipse,github,figma)](https://skillicons.dev)
 ---
 <!--
