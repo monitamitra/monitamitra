@@ -10,7 +10,7 @@ I’m open to exploring many areas of tech, but lately I’ve been drawn to the 
 
 ## 📌 My Experience 
 + Prev. Software Engineering Intern @ Wells Fargo
-+ Prev. Sophomore Discovery Inern @ Wells Fargo
++ Prev. Sophomore Discovery Intern @ Wells Fargo
 + Teaching Assistant for SDS 322E (Elements of Data Science)
 
 ---
